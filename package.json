@@ -1,0 +1,24 @@
+{
+    "name": "@qsz3330/qsz-node-jb4ld",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qsz3330/qsz-node-jb4ld.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "qsz3330",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/qsz3330/qsz-node-jb4ld/issues"
+    },
+    "homepage": "https://github.com/qsz3330/qsz-node-jb4ld#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@qsz3330/qsz-node-jb4ld": "^1.0.0"
+    }
+}
